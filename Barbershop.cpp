@@ -61,7 +61,7 @@ main()
 				dt.pilihan2 = 2;
 				dt.pilihan3 = 3;
 			}else if(plh1=='n'){
-				printf("Untuk memilih 1 layanan saja, pilih '0' pada layanan ke-2.\n");
+				printf("Untuk memilih 1 layanan saja, pilih '0' pada layanan yang ke-2.\n");
 				printf("Pilih layanan: "); scanf("%d",&dt.pilihan1);
 				printf("Pilih layanan: "); scanf("%d",&dt.pilihan2);
 			}
